@@ -13,6 +13,11 @@
 - props.conf, is the key useful file that has the Great8 applied. 
 - There is a APP which should be deployed to your SH that has useful dashboards, searches and field extractions
 
+### Sourcetype:
+- This app uses the following sourcetype, you may wish to adapt, just ensure to be consistent.
+[netgear:wifi:syslog]
+
+
 ## Git:
 - See [Github](https://github.com/jameswintermute/TA_Netgear-Wi-Fi)
 - It may still be private at the time of release but will go public in due course

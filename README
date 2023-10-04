@@ -5,7 +5,8 @@
 - I publish this as an individual within the cyber security community, it is not an official release from the vendor.
 
 ## Splunkbase:
-- Awaiting listing.
+- Listed as of 2023-10-04
+- https://splunkbase.splunk.com/app/7053
 
 ## Setup
 - This is the 'TA' which should be installed on your UF, HF, IDX and SH

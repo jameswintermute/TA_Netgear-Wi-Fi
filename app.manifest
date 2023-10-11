@@ -49,6 +49,6 @@
   ],
   "targetWorkloads": [
    "_indexers",
-   "_forwarders"
+   "_forwarders",
    "_search_heads"
 }

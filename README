@@ -1,11 +1,11 @@
 ## About
-- This TA is written for use within Splunk v8.x, 9.x
+- This TA is written for use within Splunk v9.x
 - It is intended to be used with Netgear business grade WiFi Access Points. E.G. WAX610, WAX630
 - See Vendor: [Netgear](https://www.netgear.com/uk/business/wifi/access-points/)
 - I publish this as an individual within the cyber security community, it is not an official release from the vendor.
 
 ## Splunkbase:
-- Listed as of 2023-10-04
+- First listed as of 2023-10-04
 - https://splunkbase.splunk.com/app/7053
 
 ## Setup
@@ -17,7 +17,6 @@
 ### Sourcetype:
 - This app uses the following sourcetype, you may wish to adapt, just ensure to be consistent.
 [netgear:wifi:syslog]
-
 
 ## Git:
 - See [Github](https://github.com/jameswintermute/TA_Netgear-Wi-Fi)

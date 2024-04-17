@@ -5,17 +5,17 @@
     "id": {
       "group": null,
       "name": "TA_Netgear-Wi-Fi",
-      "version": "1.0.2-beta"
+      "version": "1.0.3"
     },
     "author": [
       {
-        "name": "james wintermute",
+        "name": "James Wintermute",
         "email": null,
         "company": null
       }
     ],
     "releaseDate": null,
-    "description": "TA Netgear Wi-Fi (community app)",
+    "description": "TA Netgear Wi-Fi (Community App)",
     "classification": {
       "intendedAudience": null,
       "categories": [],
@@ -48,7 +48,6 @@
     "_distributed"
   ],
   "targetWorkloads": [
-   "_indexers",
    "_forwarders",
    "_search_heads"
 }

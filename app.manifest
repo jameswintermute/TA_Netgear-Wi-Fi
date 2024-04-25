@@ -5,7 +5,7 @@
     "id": {
       "group": null,
       "name": "TA_Netgear-Wi-Fi",
-      "version": "1.0.4"
+      "version": "1.0.6"
     },
     "author": [
       {
@@ -50,4 +50,5 @@
   "targetWorkloads": [
    "_forwarders",
    "_search_heads"
+  ]
 }
